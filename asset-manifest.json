@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pratham-upadhyay/static/css/main.5e02647d.css",
+    "main.js": "/pratham-upadhyay/static/js/main.f7909552.js",
+    "static/js/787.cda612ba.chunk.js": "/pratham-upadhyay/static/js/787.cda612ba.chunk.js",
+    "static/media/project-1.png": "/pratham-upadhyay/static/media/project-1.b8a08443932d43649dad.png",
+    "static/media/project-3.png": "/pratham-upadhyay/static/media/project-3.3ff4804d316cfb0e5b0e.png",
+    "static/media/profile-img-temp.jpg": "/pratham-upadhyay/static/media/profile-img-temp.d6504a0dc7bcb94f2414.jpg",
+    "static/media/contact-img.jpg": "/pratham-upadhyay/static/media/contact-img.a277081caccdbfccbd3a.jpg",
+    "static/media/ScrollDown.png": "/pratham-upadhyay/static/media/ScrollDown.f3901852284bf25e2f2d.png",
+    "static/media/twitter-icon-purple.png": "/pratham-upadhyay/static/media/twitter-icon-purple.1e0448d168468c4c7834.png",
+    "static/media/instagram-icon-purple.png": "/pratham-upadhyay/static/media/instagram-icon-purple.1dd0b7c1ac0de7a5a35d.png",
+    "static/media/twitter-icon.png": "/pratham-upadhyay/static/media/twitter-icon.66dcd1fee94c5b5a2574.png",
+    "static/media/instagram-icon.png": "/pratham-upadhyay/static/media/instagram-icon.a3a7519a1733b630f5b7.png",
+    "static/media/linkedin-icons-purple.png": "/pratham-upadhyay/static/media/linkedin-icons-purple.55b7c3849a6e9178ceb5.png",
+    "static/media/linkedin-icons.png": "/pratham-upadhyay/static/media/linkedin-icons.ce53fb647725d8488c57.png",
+    "static/media/logo.svg": "/pratham-upadhyay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pratham-upadhyay/index.html",
+    "main.5e02647d.css.map": "/pratham-upadhyay/static/css/main.5e02647d.css.map",
+    "main.f7909552.js.map": "/pratham-upadhyay/static/js/main.f7909552.js.map",
+    "787.cda612ba.chunk.js.map": "/pratham-upadhyay/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e02647d.css",
+    "static/js/main.f7909552.js"
+  ]
+}
