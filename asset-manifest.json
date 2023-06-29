@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/pratham-upadhyay/static/css/main.61385875.css",
-    "main.js": "/pratham-upadhyay/static/js/main.4e84985a.js",
+    "main.js": "/pratham-upadhyay/static/js/main.04ea2c8d.js",
     "static/js/787.cda612ba.chunk.js": "/pratham-upadhyay/static/js/787.cda612ba.chunk.js",
     "static/media/project-1.png": "/pratham-upadhyay/static/media/project-1.b8a08443932d43649dad.png",
     "static/media/Mypic.jpg": "/pratham-upadhyay/static/media/Mypic.1b0348ac45e215033c32.jpg",
     "static/media/project-3.png": "/pratham-upadhyay/static/media/project-3.3ff4804d316cfb0e5b0e.png",
     "static/media/profile-img-temp.jpg": "/pratham-upadhyay/static/media/profile-img-temp.d6504a0dc7bcb94f2414.jpg",
     "static/media/project-2.png": "/pratham-upadhyay/static/media/project-2.bafc8d6d7badb2311f67.png",
+    "static/media/MYIMAGE.jpg": "/pratham-upadhyay/static/media/MYIMAGE.353de2e908b501cf00a7.jpg",
     "static/media/contact-img.jpg": "/pratham-upadhyay/static/media/contact-img.a277081caccdbfccbd3a.jpg",
     "static/media/MY-MAIN-RESUME.pdf": "/pratham-upadhyay/static/media/MY-MAIN-RESUME.56984be592302e34424b.pdf",
     "static/media/ScrollDown.png": "/pratham-upadhyay/static/media/ScrollDown.f3901852284bf25e2f2d.png",
@@ -17,14 +18,13 @@
     "static/media/instagram-icon.png": "/pratham-upadhyay/static/media/instagram-icon.a3a7519a1733b630f5b7.png",
     "static/media/linkedin-icons-purple.png": "/pratham-upadhyay/static/media/linkedin-icons-purple.55b7c3849a6e9178ceb5.png",
     "static/media/linkedin-icons.png": "/pratham-upadhyay/static/media/linkedin-icons.ce53fb647725d8488c57.png",
-    "static/media/logo.svg": "/pratham-upadhyay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pratham-upadhyay/index.html",
     "main.61385875.css.map": "/pratham-upadhyay/static/css/main.61385875.css.map",
-    "main.4e84985a.js.map": "/pratham-upadhyay/static/js/main.4e84985a.js.map",
+    "main.04ea2c8d.js.map": "/pratham-upadhyay/static/js/main.04ea2c8d.js.map",
     "787.cda612ba.chunk.js.map": "/pratham-upadhyay/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61385875.css",
-    "static/js/main.4e84985a.js"
+    "static/js/main.04ea2c8d.js"
   ]
 }
